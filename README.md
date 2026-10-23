@@ -17,7 +17,8 @@ This project aims to develop a safe software of products management, inventory a
 
 # Future constraints/ Business rules
 
-Balance validation: Users can only buy products if balance is better than product value Stock validation: If there is not enough stock, the system will warn the user about the stock and do not discount anything from the account
+Balance validation: Users can only buy products if balance is better than product value 
+Stock validation: If there is not enough stock, the system will warn the user about the stock and do not discount anything from the bank account
 
 # TECHNOLOGIES
 
